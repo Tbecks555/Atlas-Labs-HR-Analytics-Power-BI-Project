@@ -15,3 +15,12 @@ In this project, I built a detailed HR analytics report using a fictitious datas
 
 
 ## Tools and Methodology
+
+* Power Query: Cleaned, prepared, and transformed raw HR data to ensure accurate, error-free analysis.
+
+* Power BI: Designed interactive dashboards and clear visualizations to present key employee metrics and trends.
+
+* DAX: Built calculated columns and measures to analyze employee attrition, track workforce KPIs, and uncover relationships between different HR factors.
+
+
+## Key Insights and Visuals
