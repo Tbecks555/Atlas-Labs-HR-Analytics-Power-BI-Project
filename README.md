@@ -73,16 +73,21 @@ In this project, I built a detailed HR analytics report using a fictitious datas
 ## Recommendations
 
 **1. Invest in Career Development for Young Talent**
+
 With the majority of the workforce aged between 20–29, it’s essential to implement robust early-career programs. Structured learning paths, regular upskilling opportunities, and transparent promotion pipelines can boost retention and unlock long-term value from this energetic but experience-hungry group.
 
 **2.Conduct Regular Pay Equity Audits Across All Demographics**
+
 The observed salary disparities, particularly the higher average compensation for White employees, underscore the need for proactive pay equity analysis. Implement annual compensation audits, paired with transparent communication on salary bands and raise criteria, to foster a culture of trust and fairness.
 
 **3. Reinforce Support Structures for Sales Representatives**
+
 With a 39.8% attrition rate, the Sales – Sales Rep role clearly requires urgent attention. Provide these employees with clearer expectations, achievable targets, regular performance feedback, and personalized incentives. Equally important is creating a team culture that emphasizes recognition and psychological safety.
 
 **4. Balance Workload by Reducing Excessive Travel and Overtime**
+
 High travel frequency and overtime are key churn contributors. Reevaluate workload distribution and consider policies like hybrid client meetings, task automation, and flexible work hours to ease pressure and promote employee wellbeing without compromising performance.
 
 **5. Strengthen Onboarding and Mentorship for Early-Tenure Employees**
+
 The first two years are a flight risk zone — especially for new hires. Introduce structured onboarding experiences, assign experienced mentors, and schedule regular check-ins throughout an employee’s first 18–24 months. Early engagement creates long-term loyalty and deeper integration into company culture.
