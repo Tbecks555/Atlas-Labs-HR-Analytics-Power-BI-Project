@@ -68,6 +68,9 @@ In this project, I built a detailed HR analytics report using a fictitious datas
 
 
 
+## Dashboard
+
+[This is the link to the full report](https://app.powerbi.com/view?r=eyJrIjoiMWZiYzZmMjctZDgwZi00NzU0LTk1MjUtN2I5MmMyOGJiMWMyIiwidCI6ImU3YzczMDVjLTc0ZTctNGUxMi1hNDlkLWJjODFjN2I3MjA3NSJ9)
 
 
 ## Recommendations
