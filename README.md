@@ -41,28 +41,28 @@ In this project, I built a detailed HR analytics report using a fictitious datas
 
 ## Visuals
 
-**Overview** 
+## Overview
 
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7afbf9d2-b5db-4617-aa58-1ea68a320100" />
 
 
 
 
-**Demographics**
+## Demographics
 
 <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/ddc923ad-0eda-47e5-885b-97ab5b3c2fe1" />
 
 
 
 
-**Performance Tracker**
+## Performance Tracker
 
 <img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/fad07ecd-7efc-49a4-b224-c74ee618c4ec" />
 
 
 
 
-**Attrition**
+## Attrition
 
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/c864decc-2897-4940-8cb0-e84105f33cbe" />
 
